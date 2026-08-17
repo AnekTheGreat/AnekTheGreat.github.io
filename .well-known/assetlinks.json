@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "io.github.anekthegreat.twa",
-        "sha256_cert_fingerprints": ["85:D1:58:70:1B:8E:96:8C:5C:02:D8:D7:58:26:39:4F:88:A9:9E:7A:19:46:3C:DF:88:7F:14:24:C8:CE:91:DA"]
+        "package_name": "com.SideCut.myapp",
+        "sha256_cert_fingerprints": ["A3:9F:74:FA:8C:DC:1C:8F:DC:DD:D1:DE:D0:D2:16:C1:8C:1D:A5:74:C2:24:0E:F8:47:A1:00:C0:BC:8A:E7:2E"]
       }
     }]
